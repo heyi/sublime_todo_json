@@ -1,0 +1,4 @@
+[
+    { "keys": ["f7"], "command": "todo_file" }, 
+    { "keys": ["f8"], "command": "todo_json" } 
+]
